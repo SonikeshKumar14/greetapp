@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "https://sonikeshkumar14.github.io/greetapp/static/css/main.7d5249c2.css",
-    "main.js": "https://sonikeshkumar14.github.io/greetapp/static/js/main.5d8e8661.js",
-    "index.html": "https://sonikeshkumar14.github.io/greetapp/index.html",
-    "main.7d5249c2.css.map": "https://sonikeshkumar14.github.io/greetapp/static/css/main.7d5249c2.css.map",
-    "main.5d8e8661.js.map": "https://sonikeshkumar14.github.io/greetapp/static/js/main.5d8e8661.js.map"
+    "main.css": "//greetapp/static/css/main.7d5249c2.css",
+    "main.js": "//greetapp/static/js/main.ddbe2ccf.js",
+    "index.html": "//greetapp/index.html",
+    "main.7d5249c2.css.map": "//greetapp/static/css/main.7d5249c2.css.map",
+    "main.ddbe2ccf.js.map": "//greetapp/static/js/main.ddbe2ccf.js.map"
   },
   "entrypoints": [
     "static/css/main.7d5249c2.css",
-    "static/js/main.5d8e8661.js"
+    "static/js/main.ddbe2ccf.js"
   ]
 }
