@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//greetapp/static/css/main.7d5249c2.css",
+    "main.js": "//greetapp/static/js/main.ddbe2ccf.js",
+    "index.html": "//greetapp/index.html",
+    "main.7d5249c2.css.map": "//greetapp/static/css/main.7d5249c2.css.map",
+    "main.ddbe2ccf.js.map": "//greetapp/static/js/main.ddbe2ccf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d5249c2.css",
+    "static/js/main.ddbe2ccf.js"
+  ]
+}
